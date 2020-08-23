@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working as a Research Assistant at [ClassTranscribe](https://classtranscribe.illinois.edu)!
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- [Open My Resume Here](https://drive.google.com/file/d/1kVJDdD38CSkWIp3Ithl3JeezzYknNI2A/view)
 
 ### Connect with me:
 <!-- 
