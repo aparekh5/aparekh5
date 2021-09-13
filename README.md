@@ -40,8 +40,3 @@
 <br />
 <br />
 
-
-
-### Github Stats
-
-![Aryaman Parekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aparekh5&count_private=true)
