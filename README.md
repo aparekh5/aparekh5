@@ -1,11 +1,10 @@
 ### Hi there, I'm Aryaman Parekh 👋
 
 
-## I'm a Sophomore at UIUC studying Computer Science
+## I'm a Junior at UIUC studying Computer Science
 
-- 🔭 I’m currently working as a Research Assistant at [ClassTranscribe](https://classtranscribe.illinois.edu)!
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- [Open My Resume Here](https://drive.google.com/file/d/16VtuokmFZk3DQv0GB66ZwOH_fWBErTJw/view)
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- [Open My Resume Here](https://drive.google.com/file/d/16VtuokmFZk3DQv0GB66ZwOH_fWBErTJw/view?usp=sharing)
 - Check out my most recent Web Dev project [Sync In here](http://syncin.app)
 
 ### Connect with me:
@@ -14,7 +13,6 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img align="left" alt="Aryaman Parekh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aparekh5/)
-[<img align="left" alt="Aryaman Parekh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/parekharyaman/)
 
 <br />
 
@@ -46,4 +44,4 @@
 
 ### Github Stats
 
-  <img align="left" alt="Aryaman Parekh's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aparekh5&show_icons=true&hide_border=true" />
+![Aryaman Parekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aparekh5&count_private=true)
